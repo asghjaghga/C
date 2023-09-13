@@ -1,0 +1,6 @@
+#include <studio.h>
+int main()
+{
+printf("This is a C programs.\n");
+return 0;
+}
